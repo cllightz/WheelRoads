@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wheelroads_api_server_domain">
+        wlrd.esy.es
+    </string>
+    <!--
+    <string name="wheelroads_api_server_domain">
+        goat.hacked.jp
+    </string>
+    -->
+</resources>

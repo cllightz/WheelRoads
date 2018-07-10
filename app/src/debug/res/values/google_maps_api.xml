@@ -1,0 +1,22 @@
+<resources>
+    <!-- FOOBAR-LAPTOP
+    <string name="google_maps_android_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyADTR91Yp1Ox_GN3GiCccT991sP7e08zdQ
+    </string>
+    -->
+
+    <!-- FOOBAR-DESKTOP
+    <string name="google_maps_android_key" templateMergeStrategy="preserve" translatable="false"
+        >AIzaSyAqXZATGdqHzSiPUA9nCOZ5kpzWQldvMa0
+    </string>
+     -->
+
+    <!-- CHRISTA-DESKTOP -->
+    <string name="google_maps_android_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBZqovoFcnbbnl7TjYbVKGhfNB_rE3r7uM
+    </string>
+
+    <string name="google_maps_server_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDW-9f-BBmdhCdMoXxECqP0EgzjdUS4yO0
+    </string>
+</resources>
